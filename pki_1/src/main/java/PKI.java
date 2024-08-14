@@ -1,7 +1,7 @@
 import java.security.KeyPair;
 import java.security.cert.X509Certificate;
 
-public class PKIExample {
+public class PKI {
     public static void main(String[] args) {
         try {
             // 1. 生成密钥对
